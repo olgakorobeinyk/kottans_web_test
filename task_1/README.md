@@ -2,3 +2,7 @@
    - [Screenshot of completed tasks list from "Get Into The Shell" section](linux_get_into_shell.png)
    - [Screenshot of completed tasks list from "Shell Commands" section](linux_shell_commands.png) 
    - [Screenshot of completed tasks list from "The Linux Filesystem" section](linux_filesystem.png)
+ * [Configuring Linux Web Servers](configuring_linux_web_servers.png) 
+   - [Screenshot of completed tasks list from "Intro to Linux" section](web_servers_intro_linux.png)
+   - [Screenshot of completed tasks list from "Linux Security" section](web_servers_linux_security.png) 
+   - [Screenshot of completed tasks list from "Web Application Servers" section](web_application_servers.png)
