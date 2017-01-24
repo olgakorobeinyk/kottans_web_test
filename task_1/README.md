@@ -2,7 +2,15 @@
    - [Screenshot of completed tasks list from "Get Into The Shell" section](linux_get_into_shell.png)
    - [Screenshot of completed tasks list from "Shell Commands" section](linux_shell_commands.png) 
    - [Screenshot of completed tasks list from "The Linux Filesystem" section](linux_filesystem.png)
+   
  * [Configuring Linux Web Servers](configuring_linux_web_servers.png) 
    - [Screenshot of completed tasks list from "Intro to Linux" section](web_servers_intro_linux.png)
    - [Screenshot of completed tasks list from "Linux Security" section](web_servers_linux_security.png) 
    - [Screenshot of completed tasks list from "Web Application Servers" section](web_application_servers.png)
+
+ * [Networking for Web Developers](networking_for_web_developers.png) 
+   - [Screenshot of completed tasks list from "From Ping to HTTP" section](networking_ping_http.png)
+   - [Screenshot of completed tasks list from "Names and Addresses" section](networking_names.png) 
+   - [Screenshot of completed tasks list from "Addressing and Networks" section](networking_addressing.png)
+   - [Screenshot of completed tasks list from "Protocol Layers" section](networking_protocol_layers.png)
+   - [Screenshot of completed tasks list from "Big Networks" section](networking_big_networks.png)
