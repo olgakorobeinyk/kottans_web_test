@@ -1,0 +1,26 @@
+ * [Ruby Codecademy](ruby_codeacademy1.png) 
+   - [Screenshot 1 of completed tasks list](ruby_codeacademy2.png)
+   - [Screenshot 2 of completed tasks list](ruby_codeacademy3.png) 
+   - [Screenshot 3 of completed tasks list](ruby_codeacademy4.png)
+   
+ * [Ruby Coans]() 
+   - []()
+   
+ * [Dynamic web application with Sinatra](r0_dynamic_web_applications_with_Sinatra.jpg) 
+   - [Screenshot of completed tasks list from "Sinatra Basics" section](r1_sinatra_basics.jpg)
+   - [Screenshot of completed tasks list from "Routing" section](r2_routing.jpg) 
+   - [Screenshot of completed tasks list from "Templating" section](r3_templating.jpg)  
+    
+ * [Programming Foundations with Python](p0_programming_python.jpg) 
+   - [Screenshot of completed tasks list from "Introductions" section](p1_intro.jpg)
+   - [Screenshot of completed tasks list from "Use Functions" section](p2_functions.png) 
+   - [Screenshot of completed tasks list from "Use Classes: Draw Turtles" section](p2_class_turtle.jpg)
+   - [Screenshot of completed tasks list from "Use Classes: Send Text" section](p3_class_send_text.jpg)
+   - [Screenshot of completed tasks list from "Use Classes: Profanity editor" section](p4_class_profanity.jpg)
+   - [Screenshot of completed tasks list from "Make Classes: Movie Website" section](p5_class_movie.jpg)
+   - [Screenshot of completed tasks list from "Make Classes: Advanced Topics" section](p6_class_advanced.jpg)
+      
+ * [Intro to Computer Science]() 
+   - [Screenshot of completed tasks list from lessons 1-2](cs_lesson1-2.jpg)
+   - [Screenshot of completed tasks list from lessons 3-5](cs_lesson_3-5.jpg) 
+   - [Screenshot of completed tasks list from lessons 6-7 and project](cs_lesson_6-proj.jpg)
